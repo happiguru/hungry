@@ -6,57 +6,75 @@ Simple overview of use/purpose.
 
 An in-depth paragraph about your project and overview of use.
 
-## Getting Started
 
-### Dependencies
+### Live demo
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+You can visit our website on [this link](https://example.com/)
 
-### Installing
+### Built With
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+- Ruby on rails
 
-### Executing program
+### Getting Started
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+To get a local copy up and running follow these simple example steps:
 
-## Help
+- Clone the repository as indicated by the Setup section below
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+### Prerequisites
 
-## Authors
+- Text editor
+- GitHub
+- Git
+- ruby
+- ruby on rails
 
-Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Things you may want to cover:
 
-## Version History
+* Ruby version
+- Ruby. v2.7.4
+- Ruby on Rails. v6.1.4
+- Using Rubocop Linters.
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
+### 🛠 Getting Started
+### Install 
+In order to run, you need to install Ruby in your computer. For windows you can go to [Ruby installer](https://rubyinstaller.org/) and for MAC and LINUX you can go to [Ruby official site](https://www.ruby-lang.org/en/downloads/) for intructions on how to intall it. Then you can clone the project by typing ```git clone git@github.com:aproplat/www.git``` on your terminal or download the source code from the repository.
 
-## License
+### Run the application
+To get a local copy up and running follow these simple example steps.
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+- Open a terminal
+- Copy this code : ```git clone "git@github.com:happiguru/hungry-.git"```
+<!-- - Run the program with this code : ```yarn install``` -->
+- Run the program with this code : ```bundle install```
+- Run the program with this code : ```rails db:create rails db:migrate rails server```
+- Stop the program with: "Ctrl + C" (Windows or Linux) or "Command + C"(Apple)
 
-## Acknowledgments
+### Open app in browser
 
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+- When the program is running go to your browser
+- put: localhost:3000/
+- Click on login, register and Sign up as a new user
+- Enjoy the app.
+
+### Tests
+
+- This project includes unit tests and integration tests, to run the tests you will just need to run the following command in the terminal from the root of the project
+  `$ rails db:migrate RAILS_ENV=test`
+  `$ bundle exec rspec`
+
+
+### ✒️ Authors - NB: Add Your Name Below
+
+👤 **Stanley Enow Lekunze**
+
+- Github: [@happiguru](https://github.com/happiguru)
+- LinkedIn:[LinkedIn](https://www.linkedin.com/in/lekunze-nley)
+
+### 🤝 Contributing
+
+Contributions, [issues](https://github.com/happiguru/hungry-/issues), and feature requests are welcome!
+
+### 📝 License
+This project is [MIT](lic.url) licensed.
