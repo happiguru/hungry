@@ -1,4 +1,4 @@
-# Project Title: Karnivore Food Application
+# Project Title: Hungry? Multi-vendor Food Delivery Application
 
 Simple overview of use/purpose.
 
