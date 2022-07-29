@@ -46,9 +46,10 @@ To get a local copy up and running follow these simple example steps.
 
 - Open a terminal
 - Copy this code : ```git clone "git@github.com:happiguru/hungry-.git"```
-<!-- - Run the program with this code : ```yarn install``` -->
+- Run the program with this code : ```yarn install```
 - Run the program with this code : ```bundle install```
 - Run the program with this code : ```rails db:create rails db:migrate rails server```
+- Run `bundle exec rails webpacker:install`
 - Stop the program with: "Ctrl + C" (Windows or Linux) or "Command + C"(Apple)
 
 ### Open app in browser
