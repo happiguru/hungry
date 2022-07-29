@@ -89,5 +89,8 @@ Contributions, [issues](https://github.com/happiguru/hungry-/issues), and featur
 
 Thank you!!! Happy Coding
 
+### Code of Conduct
+
+The Code of Conduct is available on this link [Code of Conduct](https://github.com/happiguru/hungry-/issues)
 ### 📝 License
 This project is [MIT](lic.url) licensed.
