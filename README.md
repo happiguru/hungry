@@ -76,5 +76,18 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, [issues](https://github.com/happiguru/hungry-/issues), and feature requests are welcome!
 
+### How to contribute to the project
+
+- Clone the repository
+- Create a branch from the development branch
+- Choose a task from [Project](https://github.com/users/happiguru/projects/3)
+- Write your code, add test (We are using RSpec)
+- Check out errors using Rubocop
+- Run ```rubocop .``` to see all errors. Fix errors using the command ```rubocop --auto-correct``` or ```rubocop -A```
+- Run stylint error check using the command ```npx stylelint "**/*.{css,scss}"``` and run ```npx stylelint "**/*.{css,scss}" --fix``` to fix the errors.
+- After ensuring that all your test passes and linter errors are fixed. Please open a  pull request to merge to master and after a code reviewer will check the code, it will be merged and if there is need for any modification, you will be updated to make the changes.
+
+Thank you!!! Happy Coding
+
 ### 📝 License
 This project is [MIT](lic.url) licensed.
